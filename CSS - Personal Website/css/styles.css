@@ -1,0 +1,276 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Sacramento' , cursive, serif;
+}
+h1
+{
+
+  margin: 0 auto 0 auto;
+color: #11999E;
+font-weight: bold;
+  font-size: 60px;
+}
+p
+{
+  font-family: serif;
+  position: relative;
+  bottom: 30px;
+  font-size: 20px;
+  color: #40514E;
+}
+
+.top
+{
+background-color: #E4F5F9;
+height: 100%;
+position: relative;
+padding-top: 180px;
+}
+
+.middle-container
+{
+  background-color: white;
+}
+.bottom-cloud
+{
+
+  position : absolute;
+  left: 400px;
+  right: 300px;
+  bottom: 400px;
+  width: 195px;
+  filter: drop-shadow(8px 8px 8px black);
+}
+.top-cloud
+{
+  position: absolute;
+  right: 380px;
+  top: 100px;
+  width: 195px;
+  filter: drop-shadow(8px 8px 8px black);
+}
+.mountain
+{
+  width: 650px;
+  padding-bottom: 0px;
+}
+.adjust
+{
+  padding-top: 100px;
+  height: 230px;
+  width: 230px;
+
+
+}
+.h2font
+{
+  font-family: serif;
+  color: #11999E;
+  font-weight: bold;
+}
+.About
+{
+  padding-top: 20px;
+ margin: auto;
+ width: 60%;
+
+}
+
+h2
+{
+  font-family: serif;
+  color:#11999E;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  padding-bottom: 20px;
+  margin: 60px auto;
+
+}
+.webresize
+{
+  width: 200px;
+  height: 200px;
+  padding-bottom: 20px;
+
+}
+.designsize
+{
+  width: 200px;
+  height: 200px;
+  padding-bottom: 20px;
+}
+
+.skill-row
+{
+  display: inline;
+}
+h3
+{
+  font-family: serif;
+  display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    color:#22577E;
+    font-weight: bold;
+}
+img
+{
+  filter: drop-shadow(10px 10px 10px black);
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  position: absolute;
+  left: 500px;
+  margin: auto;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column1 {
+  float: left;
+  width: 100%;
+  position: relative;
+padding-bottom: 40px;
+  right: 0px;
+  margin: auto;
+}
+
+/* Clear floats after image containers */
+.row1::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.column2 {
+  float: left;
+  width: 100%;
+padding: 10px auto 10px auto;
+  position: relative;
+  right: 0px;
+  margin: auto;
+}
+
+/* Clear floats after image containers */
+.row2::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.clm1
+{
+  padding-right: 20px;
+}
+.clm2
+{
+  padding-right: 15px;
+  margin-left: 10px;
+}
+.clm3
+{
+  padding-left: 10px;
+  margin-right: 5px;
+}
+.framework
+{
+  padding-top: 20px;
+}
+.behindskill
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  padding-bottom: 5px;
+  margin: 60px auto;
+}
+.footer
+{
+  height: 400px;
+  background-color: #40514e;
+  padding-bottom: 0px;
+}
+.followme
+{
+  color: white;
+}
+.Email
+{
+  color: white;
+  position: relative;
+  bottom: 30px;
+}
+.btn
+{
+  color: black;
+  position: relative;
+  bottom: 40px;
+  font-family:serif;
+  font-weight: bold;
+  font-size: 20px;
+  padding-bottom: 20px;
+
+}
+.hrfooter
+{
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.footer-linkedin
+{
+  padding-right: 5px;
+}
+.abovecopy
+{
+  position: relative;
+  bottom: 80px;
+}
+.addcolor
+{
+  color: white;
+  position: relative;
+  bottom: 50px;
+}
+.addsize
+{
+  width: 100%;
+}
+.addfont
+{
+  font-family: serif;
+font-weight: bold;
+  color: black;
+  width: 70px;
+  margin: auto;
+  position: relative;
+  bottom: 53px;
+  font-size: 20px;
+
+}
+.Copyright
+{
+  position: relative;
+  bottom: 120px;
+  color: white;
+  font-size: 17px;
+}
